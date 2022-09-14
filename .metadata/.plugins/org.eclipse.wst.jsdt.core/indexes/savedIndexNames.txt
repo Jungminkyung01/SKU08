@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\j\Desktop\2022\04.여름특강\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1680557741.index
+3542133706.index
+4050533253.index
+2357782171.index
+774807810.index
+299273985.index
+497811566.index
+3146105921.index
